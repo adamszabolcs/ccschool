@@ -37,7 +37,7 @@ print_p2board()
 disappear(2)
 
 
-
+#Szóval a saját az fut.
 #Asks players name.
 player1 = input("What's your name? ")
 player2 = input("And yours? ")
